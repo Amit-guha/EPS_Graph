@@ -16,6 +16,5 @@ class MainActivity : AppCompatActivity() {
         listOfEpsGraphItem = EpsModel().getListOfEpsGraphItem()
         binding.customChartView.drawChart(listOfEpsGraphItem)
 
-
     }
 }
