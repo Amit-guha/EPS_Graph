@@ -21,3 +21,9 @@ In the EPS graph, the x-axis represents time, with each interval corresponding t
 On the other hand, the y-axis represents the earnings per share (EPS) values, which indicate the profitability of the company.
 
 In this project, we have an EPS model that works with data from different companies. If you have data for multiple companies, this model makes it easy to represent and analyze that information.
+
+# Screenshots
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/Amit-guha/EPS_Graph/blob/main/app/src/main/res/drawable/day_eps_graph.png"> 
+    <img width="40%" src="https://github.com/Amit-guha/EPS_Graph/blob/main/app/src/main/res/drawable/night_eps_graph.png"> 
+</p>
